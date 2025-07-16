@@ -19,7 +19,7 @@
 
 ### Example Output:
 
-![User Profile Card Preview](https://i.imgur.com/8n5coTc.png)
+![User Profile Card Preview](https://drive.google.com/file/d/1wbXfBDQrHMjeykVOiINEH1KI7M7OSyx7/view?usp=sharing)
 
 *(Preview image is illustrative)*
 
@@ -38,7 +38,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/user-profile-card.git
+git clone https://github.com/Gohilharshil201/user-profile-card.git
 cd user-profile-card
 
 # Install dependencies
@@ -70,10 +70,9 @@ src/
 <UserProfileCard user={userObject} />
 
 🤝 Contribution
-
 Feel free to fork, improve, or suggest features!
 
 📄 License
-
 MIT
+
 
