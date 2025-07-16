@@ -22,8 +22,8 @@
 ### 👤 User Profile Card  
 Renders user avatars, bios, and social links from JSON data.
 
-🔗 [Preview Image](https://drive.google.com/file/d/1zesFmgua0eOvGDm7dvxCK4OYCsMBpOGL/view?usp=sharing)
-🔗 [Preview Image](https://drive.google.com/file/d/1NunDPGcaRZObLEZnVkxkgCIeNKthqbGv/view?usp=sharing)
+🔗 [UserProfileCard](https://drive.google.com/file/d/1zesFmgua0eOvGDm7dvxCK4OYCsMBpOGL/view?usp=sharing)
+🔗 [StatsCard and ProjectTimeline](https://drive.google.com/file/d/1NunDPGcaRZObLEZnVkxkgCIeNKthqbGv/view?usp=sharing)
 
 ---
 
