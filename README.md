@@ -24,6 +24,8 @@ Renders user avatars, bios, and social links from JSON data.
 
 🔗 [Preview Image](https://drive.google.com/file/d/1zesFmgua0eOvGDm7dvxCK4OYCsMBpOGL/view?usp=sharing)
 🔗 [Preview Image](https://drive.google.com/file/d/1NunDPGcaRZObLEZnVkxkgCIeNKthqbGv/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1zesFmgua0eOvGDm7dvxCK4OYCsMBpOGL/view?usp=sharing" alt="" width="200"/>
+<img src="https://drive.google.com/file/d/1NunDPGcaRZObLEZnVkxkgCIeNKthqbGv/view?usp=sharing" alt="" width="200"/>
 
 ---
 
